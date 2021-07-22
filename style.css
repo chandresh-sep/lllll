@@ -1,0 +1,69 @@
+
+
+body{
+    text-align: center;
+    background-color: grey
+}
+
+h1{
+    font-size: 45px;
+    font-family: 'Yellowtail', cursive;
+    color: azure;
+    background-color: grey;
+}
+
+ul {
+    text-align: left;
+    background-color:grey;
+    z-index:auto;
+}
+
+li {
+     display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family:fantasy;
+    font-size: 37px;
+    color: white;
+
+}
+
+h2{
+    font-size: 50px;
+    color: azure;
+    background-color: grey;
+    font-family: 'Tourney', cursive;
+}
+
+section{
+    background-color: white
+}
+
+.Campus life video{
+    background-color: white;
+}
+
+p {
+    text-align: justify;
+    color: burlywood;
+    font-size: 30px;
+}
+
+h5{
+    font-size: 40px;
+}
+
+span{
+    color: orange;">&star;
+}
+
+  color: cornsilk
+
+i{
+    
+    color: dodgerblue;
+}
+
+#fff{
+    color: aliceblue;
+}
